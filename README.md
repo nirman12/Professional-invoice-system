@@ -1,1 +1,3 @@
 # Professional-invoice-system
+
+I’ve designed a professional invoice system for shops using C++ that incorporates object-oriented programming principles such as inheritance, polymorphism, encapsulation, classes, and objects. This system is beneficial for businesses to manage their products, to keep sales records, and to calculate bills with great accuracy. This system is mainly for businesses which sale electronics such as mobile phones, laptops, and pc components. The sole purpose of this system is to improve business and their sales. This system offers different discounts and luck draw as well.  The principles that I’ve used in this program are explained below.
